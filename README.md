@@ -61,13 +61,13 @@ php(5.4.45)+Apache
 
 #### 2、登陆界面
 
-![1547384773366](C:\Users\lenovo\AppData\Roaming\Typora\typora-user-images\1547384773366.png)
+![1547384773366](http://cdn.peckerwood.top/2019-08-14_204429.png)
 
 ​	输入电话号码，点击发送验证码，通过ajax访问容联云实现短信测试的接口"SDK/SendTemplateSMS.php"，
 
 收到的短信图如下：
 
-![1547385566393](C:\Users\lenovo\AppData\Roaming\Typora\typora-user-images\1547385566393.png)
+![1547385566393](http://cdn.peckerwood.top/1547385566393.png)
 
 ​	输入正确的短信验证码后即可进入admin.php页面。
 
