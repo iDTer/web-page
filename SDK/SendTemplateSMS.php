@@ -85,6 +85,6 @@ for($i=0; $i < 4; $i++){
 }
 $_SESSION['code']=$code;
 
-sendTemplateSMS("18774963837",array($code,'5'),"1");//手机号码，替换内容数组，模板ID
+sendTemplateSMS("",array($code,'5'),"1");//手机号码，替换内容数组，模板ID
 
 ?>
